@@ -1,19 +1,21 @@
 # numberSystemConversion
 Python program that converts different number systems such as: 
 
-## DECIMAL CONVERSION
-  Decimal - Hexadecimal
-          - Binary
-          - Octal
-## HEXADECIMAL CONVERSION
-  Hexadecimal - Decimal
-              - Binary
-              - Octal
-## BINARY CONVERSION
-  Binary - Decimal
-         - Hexadecimal
-         - Octal
-## OCTAL CONVERSION
-  Octal - Decimal
-        - Hexadecimal
-        - Octal
+### Decimal Conversion
+* Hexadecimal
+* Binary
+* Octal
+### Hexadecimal Conversion
+* Decimal
+* Binary
+* Octal
+### Binary Conversion
+* Decimal
+* Hexadecimal
+* Octal
+### Octal Conversion
+* Decimal
+* Hexadecimal
+* Octal
+### Error Detection
+The program can detect if input is decimal/hex/binary/octal. An error message will generated once an input is faulty
