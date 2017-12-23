@@ -1,19 +1,19 @@
 # numberSystemConversion
 Python program that converts different number systems such as: 
 
-DECIMAL CONVERSION
+# DECIMAL CONVERSION
   Decimal - Hexadecimal
           - Binary
           - Octal
-HEXADECIMAL CONVERSION
+# HEXADECIMAL CONVERSION
   Hexadecimal - Decimal
               - Binary
               - Octal
-BINARY CONVERSION
+# BINARY CONVERSION
   Binary - Decimal
          - Hexadecimal
          - Octal
-OCTAL CONVERSION
+# OCTAL CONVERSION
   Octal - Decimal
         - Hexadecimal
         - Octal
