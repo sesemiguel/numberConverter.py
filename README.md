@@ -1,4 +1,4 @@
-# numberSystemConversion
+# numberConverter.py
 Python program that converts different number systems.
 ### Decimal Conversion
 * Hexadecimal
